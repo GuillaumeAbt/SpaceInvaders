@@ -1,5 +1,5 @@
 # SpaceInvaders
-complete project of SpaceInvaders game, developped with LibGDX
+complete project of SpaceInvaders game, developped with LibGDX for Android
 
 Warning, the code can be outdated !!
 
